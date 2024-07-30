@@ -1,0 +1,19 @@
+.image-card {
+    padding: 0px;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .image-card img {
+    width: 80%;
+    height: 80%;
+    border-radius: 10px;
+  }
+  
+  .image-card p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+  }

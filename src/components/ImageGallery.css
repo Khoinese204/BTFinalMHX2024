@@ -1,0 +1,17 @@
+.gallery-container {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.gallery-container h1 {
+    color: midnightblue;
+}
+  
+  .image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    
+  }
