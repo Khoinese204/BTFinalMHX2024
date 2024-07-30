@@ -1,0 +1,6 @@
+B1: Mở VSCode, chọn project sau khi được giải nén
+B2: Mở Terminal, di chuyển đến thư mục BTFinalMHX2024-k bằng lệnh 'cd BTFinalMHX2024-k'
+(PS D:\BTFinalMHX2024-k> cd BTFinalMHX2024-k)
+B3: Tải các dependencies cần thiết, gõ lệnh 'npm install'
+(PS D:\BTFinalMHX2024-k\BTFinalMHX2024-k> npm install)
+B4: Gõ 'npm run dev' để chạy project
